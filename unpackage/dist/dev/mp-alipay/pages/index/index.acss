@@ -1,0 +1,7 @@
+
+.f2-chart {
+  width: 740rpx;
+  height: 500rpx;
+  border: 2px solid pink;
+}
+

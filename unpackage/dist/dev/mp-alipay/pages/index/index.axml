@@ -1,0 +1,1 @@
+<view class="f2-chart"><f2 vue-id="8deb4120-1" onInit="onInitChart" data-com-type="wx" ref="__r" onVueInit="__l"></f2><custom-chart vue-id="8deb4120-2" data-com-type="wx" ref="__r" onVueInit="__l"></custom-chart></view>

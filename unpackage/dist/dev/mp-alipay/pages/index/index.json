@@ -1,0 +1,7 @@
+{
+  "defaultTitle": "uni-app",
+  "usingComponents": {
+    "custom-chart": "/mycomponents/custom-chart/index",
+    "f2": "@antv/my-f2"
+  }
+}
